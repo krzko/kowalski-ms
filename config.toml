@@ -8,6 +8,8 @@ title = "Kristof Kowalski"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
+googleAnalytics = "G-TGWM24YZZM"
+
 [author]
   name = "Kristof Kowalski"
   # headline = "An awesome person"
