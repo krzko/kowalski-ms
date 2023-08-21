@@ -33,7 +33,7 @@ disableKinds = ["taxonomy", "term"]
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://lastfm.com/user/username" },
     { linkedin = "https://linkedin.com/in/kristofkowalski" },
-    { mastodon = "https://mastodon.online/@kristof" },
+    # { mastodon = "https://mastodon.online/@kristof" },
     # { medium = "https://medium.com/username" },
     # { microsoft = "https://www.microsoft.com/" },
     # { patreon = "https://www.patreon.com/username" },
@@ -50,6 +50,8 @@ disableKinds = ["taxonomy", "term"]
     { twitter = "https://twitter.com/krzko" },
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
+    { link = { href = "https://timeago.xyz", text = "Time Ago", icon = "calendar" } },
+    { link = { href = "https://timerstopwatch.xyz", text = "Timer Stopwatch", icon = "clock" } },
   ]
 
 [module]
