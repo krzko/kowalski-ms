@@ -50,8 +50,8 @@ disableKinds = ["taxonomy", "term"]
     { twitter = "https://twitter.com/krzko" },
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
-    { link = { href = "https://timeago.xyz", text = "Time Ago", icon = "calendar" } },
-    { link = { href = "https://timerstopwatch.xyz", text = "Timer Stopwatch", icon = "clock" } },
+    { link = { href = "https://timeago.xyz", text = "Time Ago" } },
+    { link = { href = "https://timerstopwatch.xyz", text = "Timer Stopwatch" } },
   ]
 
 [module]
